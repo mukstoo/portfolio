@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Rodrigo",
+    "description": "Full-stack developer specializing in the JavaScript ecosystem, creating modern web and mobile applications with React, Next.js, and React Native.",
+    "viewWork": "View My Work",
+    "getInTouch": "Get In Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Learn more about my journey, skills, and passion for web development.",
+    "myStory": "My Story",
+    "story1": "I'm Rodrigo, a passionate full-stack developer with deep expertise in the JavaScript ecosystem and over 7 years of experience in web development. My journey spans from crafting responsive web applications with React and Next.js to building cross-platform mobile apps with React Native.",
+    "story2": "I specialize in modern web technologies with a strong focus on frontend development, particularly Next.js. Whether it's integrating payment systems with Stripe, managing content with Sanity, or building robust APIs with Node.js and Express, I bring comprehensive solutions to every project.",
+    "story3": "My expertise also extends to traditional web development with WordPress and PHP, along with database design using MySQL, PostgreSQL, MongoDB, and modern tools like Prisma and Firebase.",
+    "whatIBring": "What I Bring",
+    "highlights": {
+      "jsExpert": "JavaScript Ecosystem Expert",
+      "fullstack": "Full-stack Development",
+      "reactNative": "React & React Native",
+      "modernTech": "Modern Web Technologies",
+      "dbDesign": "Database Design",
+      "apiDev": "API Development"
+    },
+    "quickFacts": "Quick Facts",
+    "specialization": "Specialization",
+    "specializationValue": "JavaScript Ecosystem",
+    "experience": "Experience",
+    "experienceValue": "7+ Years",
+    "focus": "Focus",
+    "focusValue": "Frontend & Full-Stack",
+    "platforms": "Platforms",
+    "platformsValue": "Web & Mobile",
+    "availability": "Availability",
+    "availabilityValue": "Open to opportunities"
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "subtitle": "A comprehensive overview of my technical expertise across the JavaScript ecosystem and beyond.",
+    "coreTitle": "Core Technologies",
+    "categories": {
+      "frontend": {
+        "title": "Frontend",
+        "description": "Modern web interfaces & user experiences"
+      },
+      "backend": {
+        "title": "Backend",
+        "description": "Server-side development & APIs"
+      },
+      "databases": {
+        "title": "Databases",
+        "description": "Data storage & management solutions"
+      },
+      "tools": {
+        "title": "Tools & Services",
+        "description": "Development tools & third-party integrations"
+      }
+    },
+    "alwaysLearning": "Always Learning",
+    "learningSubtitle": "Passionate about staying current with the latest technologies and best practices in web development.",
+    "practices": {
+      "performance": "Performance Optimization",
+      "responsive": "Responsive Design",
+      "security": "Security Best Practices",
+      "accessibility": "Accessibility Standards",
+      "testing": "Test-Driven Development",
+      "cicd": "CI/CD Pipelines",
+      "cloud": "Cloud Deployment",
+      "analytics": "Analytics Integration"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind or want to collaborate? I'd love to hear from you. Let's create something amazing together.",
+    "sendMessage": "Send a Message",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "contactInfo": "Contact Information",
+    "followMe": "Follow Me",
+    "workTogether": "Let's Work Together",
+    "workTogetherDesc": "I'm always open to discussing new opportunities and interesting projects.",
+    "responseTime": "Usually responds within 24 hours",
+    "placeholders": {
+      "name": "Your name",
+      "email": "your.email@example.com",
+      "subject": "What's this about?",
+      "message": "Tell me about your project..."
+    }
+  },
+  "footer": {
+    "description": "Full-stack developer specializing in the JavaScript ecosystem.",
+    "backToTop": "Back to Top",
+    "madeWith": "Made with",
+    "using": "using Next.js & Tailwind CSS",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  }
+} 

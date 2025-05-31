@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "name": "Rodrigo",
+    "description": "Desenvolvedor full-stack especializado no ecossistema JavaScript, criando aplicações web e mobile modernas com React, Next.js e React Native.",
+    "viewWork": "Ver Meu Trabalho",
+    "getInTouch": "Entre em Contato"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "subtitle": "Saiba mais sobre minha jornada, habilidades e paixão pelo desenvolvimento web.",
+    "myStory": "Minha História",
+    "story1": "Sou Rodrigo, um desenvolvedor full-stack apaixonado com profunda expertise no ecossistema JavaScript e mais de 7 anos de experiência em desenvolvimento web. Minha jornada abrange desde a criação de aplicações web responsivas com React e Next.js até o desenvolvimento de aplicativos mobile multiplataforma com React Native.",
+    "story2": "Especializo-me em tecnologias web modernas com forte foco no desenvolvimento frontend, particularmente Next.js. Seja integrando sistemas de pagamento com Stripe, gerenciando conteúdo com Sanity, ou construindo APIs robustas com Node.js e Express, trago soluções abrangentes para cada projeto.",
+    "story3": "Minha expertise também se estende ao desenvolvimento web tradicional com WordPress e PHP, além de design de banco de dados usando MySQL, PostgreSQL, MongoDB e ferramentas modernas como Prisma e Firebase.",
+    "whatIBring": "O Que Eu Ofereço",
+    "highlights": {
+      "jsExpert": "Especialista em Ecossistema JavaScript",
+      "fullstack": "Desenvolvimento Full-stack",
+      "reactNative": "React & React Native",
+      "modernTech": "Tecnologias Web Modernas",
+      "dbDesign": "Design de Banco de Dados",
+      "apiDev": "Desenvolvimento de APIs"
+    },
+    "quickFacts": "Informações Rápidas",
+    "specialization": "Especialização",
+    "specializationValue": "Ecossistema JavaScript",
+    "experience": "Experiência",
+    "experienceValue": "7+ Anos",
+    "focus": "Foco",
+    "focusValue": "Frontend & Full-Stack",
+    "platforms": "Plataformas",
+    "platformsValue": "Web & Mobile",
+    "availability": "Disponibilidade",
+    "availabilityValue": "Aberto a oportunidades"
+  },
+  "skills": {
+    "title": "Habilidades & Tecnologias",
+    "subtitle": "Uma visão abrangente da minha expertise técnica no ecossistema JavaScript e além.",
+    "coreTitle": "Tecnologias Principais",
+    "categories": {
+      "frontend": {
+        "title": "Frontend",
+        "description": "Interfaces web modernas & experiências do usuário"
+      },
+      "backend": {
+        "title": "Backend",
+        "description": "Desenvolvimento server-side & APIs"
+      },
+      "databases": {
+        "title": "Bancos de Dados",
+        "description": "Soluções de armazenamento & gerenciamento de dados"
+      },
+      "tools": {
+        "title": "Ferramentas & Serviços",
+        "description": "Ferramentas de desenvolvimento & integrações"
+      }
+    },
+    "alwaysLearning": "Sempre Aprendendo",
+    "learningSubtitle": "Apaixonado por me manter atualizado com as últimas tecnologias e melhores práticas em desenvolvimento web.",
+    "practices": {
+      "performance": "Otimização de Performance",
+      "responsive": "Design Responsivo",
+      "security": "Melhores Práticas de Segurança",
+      "accessibility": "Padrões de Acessibilidade",
+      "testing": "Desenvolvimento Orientado a Testes",
+      "cicd": "Pipelines CI/CD",
+      "cloud": "Deploy em Nuvem",
+      "analytics": "Integração de Analytics"
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Tem um projeto em mente ou quer colaborar? Adoraria ouvir de você. Vamos criar algo incrível juntos.",
+    "sendMessage": "Enviar Mensagem",
+    "name": "Nome",
+    "email": "Email",
+    "subject": "Assunto",
+    "message": "Mensagem",
+    "send": "Enviar Mensagem",
+    "contactInfo": "Informações de Contato",
+    "followMe": "Me Siga",
+    "workTogether": "Vamos Trabalhar Juntos",
+    "workTogetherDesc": "Estou sempre aberto para discutir novas oportunidades e projetos interessantes.",
+    "responseTime": "Geralmente responde em 24 horas",
+    "placeholders": {
+      "name": "Seu nome",
+      "email": "seu.email@exemplo.com",
+      "subject": "Sobre o que é?",
+      "message": "Conte-me sobre seu projeto..."
+    }
+  },
+  "footer": {
+    "description": "Desenvolvedor full-stack especializado no ecossistema JavaScript.",
+    "backToTop": "Voltar ao Topo",
+    "madeWith": "Feito com",
+    "using": "usando Next.js & Tailwind CSS",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço"
+  },
+  "navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "contact": "Contato"
+  }
+} 
